@@ -7,4 +7,7 @@ public class OrderClass {
 		for(int i=0;i<arr.length;i++)
 			System.out.println(arr[i]);
 	}
+	public void show() {
+		System.out.println("this is show");
+	}
 }
